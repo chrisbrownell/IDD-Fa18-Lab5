@@ -114,8 +114,11 @@ Include here:
 
 1. At least one photo of your useless box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
 
-![box](https://github.com/chrisbrownell/IDD-Fa18-Lab5-ckb77/blob/master/IMG_5935.JPG)
+Internal setup prior to final glueing:
+![box](https://github.com/chrisbrownell/IDD-Fa18-Lab5-ckb77/blob/master/IMG_8952.JPG)
 
+Photos from studio box:
+![box](https://github.com/chrisbrownell/IDD-Fa18-Lab5-ckb77/blob/master/IMG_5935.JPG)
 ![box](https://github.com/chrisbrownell/IDD-Fa18-Lab5-ckb77/blob/master/IMG_3054.JPG)
 
 1. A video of your useless box in action.
