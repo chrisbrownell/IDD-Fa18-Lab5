@@ -10,7 +10,7 @@ We used the 3D printer to create the blue servo mount in the picture below:
 ![servomount](https://github.com/chrisbrownell/IDD-Fa18-Lab5-ckb77/blob/master/IMG_5706.JPG)
 
 **b. Include `.stl` or `.svg` files for your bopper, if 3d-printing.**
-I chose to laser cut my bopper. The svg can be downloaded [here](https://github.com/chrisbrownell/IDD-Fa18-Lab5-ckb77/blob/master/uselessarm.svg) but the GitHub preview seems to show nothing... a screeshot is included below. For my bopper I used inkscape to draw an arm that would (1) rest below the top of the box in the "LOW" state and (2) fully extend outside the box toward a switch location when rotated 60-90 degrees by a servo in the "HIGH" state. At first I tried to add just one "tounge" piece (the smaller component that fits into the tip of the bopper. After testing a bit, it became clear that one tongue was not sufficient so I added two more (with deeper grooves) to glue on the top and bottom of the initial tongue piece.
+I chose to laser cut my bopper. The svg can be downloaded [here](https://github.com/chrisbrownell/IDD-Fa18-Lab5-ckb77/blob/master/uselessarm.svg) but the GitHub preview seems to show nothing... a screeshot is included below. For my bopper I used inkscape to draw an arm that would (1) rest below the top of the box in the "LOW" state and (2) fully extend outside the box toward a switch location when rotated 60-90 degrees by a servo in the "HIGH" state. At first I tried to add just one "tounge" piece (the smaller component that fits into the tip of the bopper). After testing a bit, it became clear that one tongue was not sufficient so I added two more (with deeper grooves) to glue on the top and bottom of the initial tongue piece.
 
 SVG screenshot:
 ![svgscreenshot](https://github.com/chrisbrownell/IDD-Fa18-Lab5-ckb77/blob/master/bopper.png)
@@ -27,7 +27,7 @@ v2 bopper with three tongues:
 **b. Include a photo of your box here.**
 
 I added a little smiley-face on the side of my box before sending to the laser cutter. 
-![box](https://github.com/chrisbrownell/IDD-Fa18-Lab5-ckb77/blob/master/IMG_5935.JPG)
+![box](https://github.com/chrisbrownell/IDD-Fa18-Lab5-ckb77/blob/master/IMG_7052.JPG)
 
 ## Electronics
 
@@ -110,5 +110,21 @@ Include here:
     
 1. `.stl` or `.svg` files for your "bopper" — if you use some other technique, include the respective supporting material.
 
+    - See above
+
 1. At least one photo of your useless box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
+
+![box](https://github.com/chrisbrownell/IDD-Fa18-Lab5-ckb77/blob/master/IMG_5935.JPG)
+
+![box](https://github.com/chrisbrownell/IDD-Fa18-Lab5-ckb77/blob/master/IMG_3054.JPG)
+
 1. A video of your useless box in action.
+
+Useless box in action - [video](https://drive.google.com/file/d/15GdccorZQEn73rJgkaPlWN-jaFG81mr5/view?usp=sharing)
+
+Here is the moment of glory, immortalized in still. You will notice I needed to affix a quarter to the top of the bopper for a little bit more weight to get a consistent hit.
+
+![box](https://github.com/chrisbrownell/IDD-Fa18-Lab5-ckb77/blob/master/IMG_1559.PNG)
+
+
+
