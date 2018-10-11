@@ -5,6 +5,8 @@
 ## 3D Printing
 
 **a. Include a photo of your printed part here.**
+
+We used the 3D printer to create the blue servo mount in the picture below:
 ![servomount](https://github.com/chrisbrownell/IDD-Fa18-Lab5-ckb77/blob/master/IMG_5706.JPG)
 
 **b. Include `.stl` or `.svg` files for your bopper, if 3d-printing.**
